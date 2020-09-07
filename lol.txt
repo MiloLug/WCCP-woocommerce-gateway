@@ -1,0 +1,3 @@
+<div id="error"><p class="wpdberror"><strong>Ошибка базы данных WordPress:</strong> [You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near &#039;key)
+	VALUES (&#039;93.00&#039;, &#039;/wp-admin/admin-ajax.php&#039;, &#039;42&#039;, &#039;http://ok&#039;, &#039;http://f&#039; at line 1]<br /><code>INSERT INTO active_orders (price, hook, outid, redirectok, redirectfail, key)
+	VALUES (&#039;93.00&#039;, &#039;/wp-admin/admin-ajax.php&#039;, &#039;42&#039;, &#039;http://ok&#039;, &#039;http://fail&#039;)</code></p></div>{"ok":true,"id":0}
